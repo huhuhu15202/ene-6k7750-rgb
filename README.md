@@ -1,5 +1,7 @@
 # ene-6k7750-rgb — Linux driver for ENE 6K7750 motherboards ARGB controller
 
+This fork also includes a Windows background controller; see [Windows 灯控后台版](windows/后台版本说明.md).
+
 Reverse-engineered from Linux, no Windows capture required. Lets you control the
 addressable-RGB fans and on-board LED strips wired to the ENE 6K7750 ARGB
 controller found on **Maxsun** (and sibling-brand) motherboards — which no
